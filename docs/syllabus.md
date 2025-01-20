@@ -2,49 +2,38 @@
 title: Course Info 
 ---
 
-### Latin American History at the HORROR Movies
+### History 299: Thinking Historically with the Spanish Conquest of Mexico
 
-HILA/LAC 370   
-TR   9:45-11:00
-HSS 107   
-Fall 2024  
+Tuesdays 4:05-6:35
+HSS 110
+Spring 2025  
 
 **Prof. Chad Black**
 
 **Email:** cblack6-at-utk.edu   
-**Office:**  
-**Office Hours:** Tuesday, 12:30-2:30, or by appointment.
+**Office:**  621 SMC  
+**Office Hours:** Wednesday, 3:30-5:30, or by appointment.
 
-> "If you want to understand a place, ignore the boastful monuments and landmarks, and go straight to the haunted houses."
+> _The Discovery of America, and that of a passage to the East Indies by the Cape of Good Hope, are the two greatest and most important events in the recorded history of mankind._
 > 
-> - Colin Dickey, *Ghostland*
+> -Adam Smith
 
 
 ### About
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zTGF_M3KRXI?si=vpNdru4naAsqAsLi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-The history of film in Latin America is almost as long as the history of film. Already in 1896, representatives of the Lumiére brothers made and projected films for Mexican President Porfirio Diáz in Chapultec Castle! As moving picture technology spread throughout the world, it radically altered how individual and groups in society perceived themselves, and how they were represented by others. Film (and later television) has been a source of enjoyment, a powerful propaganda tool, a medium of artistic express, a driving force of national identity, and a medium for scary stories.
-
-In this class, we will use horror films, fiction, and historical sources as an introduction to the history and theory of monsters and monstrosity in modern Latin America. In recent years, filmmakers from Mexico, Guatemala, Chile, and Argentina (among others) have used the genre of horror to explore the pressing weight of history on society, through issues such as violence, gender, dictatorship, inequality, and capitalism. In this class, we will interrogate these works historically, not to become exports on horror, but to see how horror and horror criticism provide a method for studying Latin America. 
-
-Most films will be in Spanish with English subtitles. The majority of these films are rated R for strong language, violence, and/or sexual content. These topics (sex and violence) convey the realities of contemporary and historical struggles in the region. In class, we will discuss at length themes in the films that go beyond the casual viewer's interpretations. If, however, you feel uncomfortable with these topics, please come speak to me.
-
+In 1492, Columbus sailed the ocean blue and… discovered, or destroyed, conquered, or civilized the Americas. Sixty years later, in 1552, López de Gómara, the private secretary of Hernando Cortés, wrote, “The greatest event since the creation of the world (excluding the incarnation and death of Him who created it) is the discovery of the Indies [i.e. Americas].” He was, himself, a participant the great conquest of Mexico. From the very beginning, not only the magnitude, but also the meaning of the Conquest of the Americas has been a point of controversy and acclaim. Worlds were upended. Millions of people died through the cumulative impacts of warring, labor practices, and, maybe most importantly, disease. Empires were torn down and reconstructed. Christendom was vastly expanded. And, of course, tomatoes, chiles, potatoes, silver, gold, emeralds, horses, cattle, pig, corn, and syphilis traversed the Atlantic in an epoch of unprecedented ecological exchange. Modernity itself was forged in the crucible of Conquest. The readings in this class will take us on a journey through the so-called Conquest of Mexico, from its original Spanish and indigenous chroniclers through current approaches. Along the way we will treat the complexities, myths, and enduring legacies of the process of Spanish conquest.
 ### Course Requirements
 
 Students are required to engage in this class. Learning is an interactive process, and requires active participation by all members of the class. Students need to read, write, and attend class in order to be successful. These assignments are designed to contribute to the overall objectives of the semester, including both content-specific and skill-based goals.
 
 ### Course Objectives
 
-1.  To learn to effectively read theoretical and historical texts, and use this information as a basis for media critique.
-2.  To learn to identify the ways that film mediates/represents history in its attempt to visually construct its worlds.
-3. To understand and use a variety of sources that provide the core of historical inquiry.
-    -   Primary written sources, and their particular challenges.
-    -   Secondary sources, and how to read them critically.
-    -   Visual and physical sources of evidence.
-    -   The absence of sources— finding lost voices, and reading against the grain.
-4.  To be able to identify, understand, and critique historical argument.
-    -   Historians follow a lose set of epistemological, theoretical, and evidentiary rules in their attempts to recreate the limited past that is accessible to us through our incomplete archival record. At the college level and beyond, it is your task to learn how to identify an author’s central argument and to evaluate it based on its evidence, sources, logic, and narrative.
+History 299, as an introductory seminar in historical thinking, focuses on developing four skills central to the historian's trade. Our course objectives are based on students demonstrating fluency with each of these skills, using the topic of the Spanish Conquest of Mexico:
+
+1. Students will demonstrate introductory competency in reading like a historian across a variety of textual sources.  
+2. Students will demonstrate introductory competency in researching like a historian, developing skills in defining historical questions and strategizing how to approach them.
+3. Students will demonstrate introductory competency in writing like a historian, evaluating sources and analyzing them in their own words.  
+4. Students will demonstrate introductory competency in thinking like a historian by synthesizing the previous skills.
 
 ### Policies
 
