@@ -6,7 +6,8 @@ title: Assignments
 
 Students are required to purchase the following texts for this course:
 
-- 
+- Restall, Matthew. 2018. *When Montezuma met Cortes: The true story of the meeting that changed the world*. HarperCollins.
+- Townsend, Camilla. 201. *Fifth Sun: A New History of the Aztecs*. Oxford University Press. 
 
 Other readings will be provided electronically.
 
@@ -52,10 +53,10 @@ Fifth:  Monday, May 12th.
 
 ## Assignments
 
-1. [[299/299 Spanish Conquest/299S2025/docs/Assignment 1|Assignment 1]]: Reading Like A Historian  
-2. [[299/299 Spanish Conquest/299S2025/docs/Assignment 2|Assignment 2]]: Thinking Like A Historian  
-3. [[Assignment 3]]: Researching Like a Historian  
-4. [[Assignment 4]]: Creating History  
+1. [Assignment 1: Reading Like A Historian ](https://chadblack.net/299S2025/Assignment 1/) 
+2. [Assignment 2: Thinking Like A Historian](https://chadblack.net/299S2025/Assignment 2/)  
+3. [Assignment 3: Researching Like a Historian](https://chadblack.net/299S2025/Assignment 3/)  
+4. [Assignment 4: Creating History](https://chadblack.net/299S2025/Assignment 4/)  
 
 Historians largely operate through texts, be they the textual remains of the past preserved in archives, contemporary theory, or the historiographic development over time 
 
