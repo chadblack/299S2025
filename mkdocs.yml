@@ -1,10 +1,10 @@
-site_name: HILA/LAC 370 Latin American History at the Horror Movies
-site_url: https://chadblack.net/2024Film/
+site_name: HIST 299 The Spanish Conquest of Mexico
+site_url: https://chadblack.net/299S2025/
 site_author: Chad Black
 site_description: A chad_black production
 
 # Copyright
-copyright: Copyright &copy; 2024 Chad Black 
+copyright: Copyright &copy; 2025 Chad Black 
 
 theme:
     custom_dir: docs/overrides
@@ -80,5 +80,4 @@ nav:
   - Resources: 
     - How to write a precis and memo: resources/how to write a precis and memo.md
     - Approaches to making notes: resources/an approach to making notes.md
-    - Latin American horror films: resources/films.md
-    - Film Presenstation Project: resources/Film Presentation Project.md
+
