@@ -17,11 +17,11 @@ This course uses a somewhat uncommon approach to assessment known as Specificati
 
 **To pass this class, you must successfully complete two assignments, attend all classes (with no more than two absences), and satisfactorily complete 70% of in-class work.** This class meets just once per week, so two absences is the equivalent of between four and six absences in normal courses. 
 
-Beyond that, if you...   
-Successfully complete all four levels of assignment: A- to A+  
-Successfully complete three levels of assignment: B- to B+  
-Successfully complete two levels of assignments: C- to C+  
-Successfully complete one or zero: F
+Beyond that, if you...    
+Successfully complete all four levels of assignment: A- to A+    
+Successfully complete three levels of assignment: B- to B+    
+Successfully complete two levels of assignments: C- to C+    
+Successfully complete one or zero: F   
 
 Your place within a letter grade range is determined by your in-class work, participation, and self-evaluation at the end of the semester. For example, if you complete all four levels of assignment (A- to A+), your final grade will be determined by your participation in our seminar meetings. 
 
@@ -44,11 +44,11 @@ Our in-class activities will include things like writing précis and research me
 
 ### Assignment Upload Dates:   
 
-First:  Tuesday, February 25
-Second:  Tuesday, March 11
-Third:  Tuesday, April 1
-Fourth:  Tuesday, April 22
-Fifth:  Monday, May 12th.  
+First:  Tuesday, February 25   
+Second:  Tuesday, March 11   
+Third:  Tuesday, April 1   
+Fourth:  Tuesday, April 22   
+Fifth:  Monday, May 12th.     
 
 
 ## Assignments
