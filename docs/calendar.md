@@ -16,10 +16,10 @@ title: Calendar
 10. [[#Week 10 March 25 -- Conquest I]]
 11. [[#Week 11 April 1 -- Conquest II (Assignment 3)]]
 12. [[#Week 12 April 8 -- Conquest Ongoing]]
-13. [[#Week 13 April 15 -- Knowledge]]
-14. [[#Week 14 April 22 -- Sex (Assignment 4)]]
-15. [[#Week 15 April 29 -- Order]]
-16. [[#Week 16 May 6 -- The Meaning of Conquest]]
+13. [[#Week 13 April 15 -- Spiritual Conquests]]
+14. [[#Week 14 April 22 -- Order of Things (Assignment 4)]]
+15. [[#Week 15 April 29 -- The Meaning of Conquest]]
+16. [[#Week 16 May 6 -- All things must end.]]
 
 
 
@@ -40,16 +40,16 @@ What is the status of the past for the present? We're going to start the semeste
 1521, like 1492, is a signifier that marks a process and significance that far exceeds the year labeled. At the start of the semester, in addition to asking last week's question on the status of past in general and in theory, we should consider the conflictual nature of this particular history and its memory. 
 
 Reading:  
-1. Rigoberta Menchú, “The Quincentenary, a Question of Class, Not Race: An Interview with Rigoberta Menchú,” Latin American Perspectives, 1992;  
-2. Mario Vargas Llosa, “Questions of Conquest: What Columbus Wrought, and What He Did Not,” Harpers Magazine, Dec. 1990.
+1. Rigoberta Menchú, “The Quincentenary, a Question of Class, Not Race: An Interview with Rigoberta Menchú,” Latin American Perspectives, 1992;   
+2. Mario Vargas Llosa, “Questions of Conquest: What Columbus Wrought, and What He Did Not,” Harpers Magazine, Dec. 1990.  
 
 ### Week 4: February 11 -- Origins of Mesoamerica  
 
 
 Reading:  
-1. Townsend, _Fifth Sun_, pp. 1-32.
-2. Thompson, J. Eric. “The Meaning of Maize for the Maya.” in Gilbert M. Joseph and Timothy J. Henderson, eds., The Mexico Reader: History, Culture, Politics (Durham: Duke University Press, 2002), pp. 86-91.
-3. Anonymous. “The Popol Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.
+1. Townsend, _Fifth Sun_, pp. 1-32.  
+2. Thompson, J. Eric. “The Meaning of Maize for the Maya.” in Gilbert M. Joseph and Timothy J. Henderson, eds., The Mexico Reader: History, Culture, Politics (Durham: Duke University Press, 2002), pp. 86-91.  
+3. Anonymous. “The Popol Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.  
 
 ### Week 5: February 18 -- Cycles of Empire?    
 
@@ -66,47 +66,52 @@ Reading:
 ### Week 7: March 4  -- Convivencia?  
 
 Reading:  
-1. William D. Phillips, Jr., and Carla Rahn Phillips, “Spain in the Fifteenth Century,” in Adorno and Andrien, Transatlantic Encounters, 11-40.
-2. “Las Siete Partidas: Laws on Jews.”
-3. “King Ferdinand, Marriage Concessions (1469)” in Jon Cowans, ed. Early Modern Spain: A Documentary History (Philadelphia: University of Pennsylvania Press, 2003): 7-9.
-4. “Surrender Treaty of the Kingdom of Granada (1491)” in Cowans, Early Modern Spain: 15-19.
-5. “Decree of Expulsion of the Jews (1492)” in Cowans, Early Modern Spain: 20-23.
+1. William D. Phillips, Jr., and Carla Rahn Phillips, “Spain in the Fifteenth Century,” in Adorno and Andrien, Transatlantic Encounters, 11-40.   
+2. “Las Siete Partidas: Laws on Jews.”   
+3. “King Ferdinand, Marriage Concessions (1469)” in Jon Cowans, ed. Early Modern Spain: A Documentary History (Philadelphia: University of Pennsylvania Press, 2003): 7-9.   
+4. “Surrender Treaty of the Kingdom of Granada (1491)” in Cowans, Early Modern Spain: 15-19.   
+5. “Decree of Expulsion of the Jews (1492)” in Cowans, Early Modern Spain: 20-23.   
 
 ### Week 8: March 11 -- Language of Empire  (Assignment 2)
 
 Reading:  
+1. Christopher Columbus’s Log, excerpted in English. Focus on period after Oct. 11.  
+2. The Requerimiento   
+3. Antonio Montesinos, “Advent Sermon”
 
+### Week 9: March 18 (Spring Break)  
 
-### Week 9: March 18 (Spring Break)
+Enjoy a break!!  
 
 ### Week 10: March 25   -- Conquest I  
 
-
 Reading:  
 1. Townsend, *Fifth Sun*, pp. 85-106.  
-2. Restall, Chapter 1
 
 ### Week 11: April 1  -- Conquest II (Assignment 3)
 
 Reading:   
 1. Townsend, *Fifth Sun*, pp. 107-128.
-2. Restall, 
 
 ### Week 12: April 8 -- Conquest Ongoing  
 
 Reading:  
 1. Townsend, *Fifth Sun*, pp. 129-154. 
-2. Restall, 
 
-### Week 13: April 15 -- Knowledge
+### Week 13: April 15 -- Spiritual Conquests
 
-### Week 14: April 22 -- Sex (Assignment 4)
+Reading:
+1. Martin Nesvig, *Promiscuous Power*, “Burning Down the House, in Which the Spiritual Conquistadors Go to War with Each Other.”
 
-### Week 15: April 29  -- Order  
+### Week 14: April 22 -- Order of Things (Assignment 4)
 
 Reading:  
-1. Townsend, *Fifth Sun*, 155-180.  
+1. Finish *Fifth Sun*
+### Week 15: April 29  -- The Meaning of Conquest
 
-### Week 16: May 6  -- The Meaning of Conquest
+Watch *499* before class. 
+ 
+
+### Week 16: May 6  -- All things must end. 
 
 **FINAL ATTEMPT FOR A MAJOR ASSIGNMENT IS DUE ON MAY 12 by 6:00pm.**

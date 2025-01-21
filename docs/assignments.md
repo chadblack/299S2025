@@ -56,7 +56,7 @@ Fifth:  Monday, May 12th.
 1. [Assignment 1: Reading Like A Historian ](https://chadblack.net/299S2025/Assignment 1/) 
 2. [Assignment 2: Thinking Like A Historian](https://chadblack.net/299S2025/Assignment 2/)  
 3. [Assignment 3: Researching Like a Historian](https://chadblack.net/299S2025/Assignment 3/)  
-4. [Assignment 4: Creating History](https://chadblack.net/299S2025/Assignment 4/)  
+4. [Assignment 4: Creative History](https://chadblack.net/299S2025/Assignment 4/)  
 
 Historians largely operate through texts, be they the textual remains of the past preserved in archives, contemporary theory, or the historiographic development over time 
 
