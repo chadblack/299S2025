@@ -35,6 +35,14 @@ What is the status of the past for the present? We're going to start the semeste
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBm7tN5Fn9U?si=bLF0Wj3lfpiO3Qwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Readings (under Files in Canvas):   
+1. Hegel, Georg. 1988 [1840/1830] "The Division of History" and "Appendix from Hegel's Philosophy of Right", *Introduction of The Philosophy of History*, trans. Leo Rauch.
+2. Benjamin, Walter. 2019 [1940] "Theses on the Philosophy of History" trans. by Harry Zohn. *Illuminations*. Schoken Books. 
+
+This might help a bit with Hegel:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Dqyq-UjoVA?si=Z6-bTI-G4LdpBGeO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Week 3: February 4 --   1492/1992  
 
 1521, like 1492, is a signifier that marks a process and significance that far exceeds the year labeled. At the start of the semester, in addition to asking last week's question on the status of past in general and in theory, we should consider the conflictual nature of this particular history and its memory. 
